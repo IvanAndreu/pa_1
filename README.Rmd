@@ -23,7 +23,7 @@ f0_o_unstressed = 79.6648661980173
 
 
 
-# step 10: calculations
+# Calculations
 
 
 The difference in ms between “hablo” and “habló” 

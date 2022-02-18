@@ -12,7 +12,7 @@ f0_o_stressed = 213.50404026286904
 f0_o_unstressed = 79.6648661980173  
 ```
 
-# step 10: calculations
+# Calculations
 
 The difference in ms between “hablo” and “habló”
 
@@ -37,3 +37,5 @@ int_o_stressed - int_o_unstressed
 ```
 
     ## [1] 7.767855
+
+me queda una
