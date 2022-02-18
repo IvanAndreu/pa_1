@@ -10,18 +10,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ```{r}
-dur_hablo_stressed = 466.524
-dur_hablo_unstressed = 431.445 
-dur_o_stressed = 206.571 
-dur_o_unstressed = 112.002 
-int_o_stressed = 89.12363657574684 
-int_o_unstressed = 81.35578152786863 
-f0_o_stressed = 213.50404026286904 
-f0_o_unstressed = 79.6648661980173
-a = -35.079
-b = 94.569
-c = 7.767855
-d = 133.8392
+dur_hablo_stressed = 448.398
+dur_hablo_unstressed = 447.318 
+dur_o_stressed = 185 
+dur_o_unstressed = 127 
+int_o_stressed =  87.08165410243207
+int_o_unstressed = 84.16381865856943
+f0_o_stressed =  81.41458184138735
+f0_o_unstressed = 84.42106526576936
+a = -1.08
+b = 58
+c = 2.917835
+d = -3.006483
 
 ```
 
@@ -56,5 +56,5 @@ f0_o_stressed - f0_o_unstressed
 
 The difference in milliseconds between “hablo” and “habló” is of `r a` Ms in the same way, we can also observe how the stressed vowel [o] has also a longer duration of `r b`Ms. Results show that the given speaker produces longer duration times when pronouncing stressed words.  
 
-Regarding the intensity and the F0 distinctions, we find no surprises here, being the difference in intensity between the stressed and unstressed of `r c` dB, and between F0 stressed and unstressed `r d` Hz. 
+The intensity  between the stressed and unstressed is of `r c` dB. Finally for the difference between the stressed and the unstressed F0 at the midpoint is of `r d` Hz. 
 
